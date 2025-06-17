@@ -24,7 +24,11 @@ This project demonstrates clustering techniques using Python and Jupyter Noteboo
    git clone https://github.com/SophieHuiyiHou/Clustering-Project.git
    cd Clustering-Project
    ```
-2. Start Jupyter Notebook:
+2. Install the required Python libraries:
+   ```bash
+   pip install -r requirement.txt
+   ```
+3.  Start Jupyter Notebook:
    ```bash
    jupyter notebook Clustering.ipynb
    ```

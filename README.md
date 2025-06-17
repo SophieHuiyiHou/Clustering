@@ -23,3 +23,8 @@ This project demonstrates clustering techniques using Python and Jupyter Noteboo
    ```bash
    git clone https://github.com/SophieHuiyiHou/Clustering-Project.git
    cd Clustering-Project
+   ```
+2. Start Jupyter Notebook:
+   ```bash
+   jupyter notebook Clustering.ipynb
+   ```

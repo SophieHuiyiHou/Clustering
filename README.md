@@ -30,5 +30,5 @@ This project demonstrates clustering techniques using Python and Jupyter Noteboo
    ```
 3.  Start Jupyter Notebook:
    ```bash
-   jupyter notebook Clustering.ipynb
+   jupyter notebook "Clustering.ipynb"
    ```
